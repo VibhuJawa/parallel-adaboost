@@ -23,8 +23,8 @@ Say what the step will be
 
 2. import the implimentation you like to use, There are 2 header files which you can use:
   
-      1. Parallization to find the best feature threhold parallel- adaboost/c++/adaboost.h
-      2. Parallization everywhere parallel-adaboost/c++/adaboost_best.h
+      1. Parallization to find the best feature threhold parallel- [adaboost.h](c++/adaboost.h)   
+      2. Parallization everywhere parallel- [adaboost_best.h](c++/adaboost_best.h)
       
       To import simply type:
       
