@@ -42,7 +42,9 @@ X here is a vector of vectors of dimention n*m,
 where n is number of examples and m is number of dimentions.
 
 ```
-3. We also time different transposse implimentations in  parallel-adaboost/c++/time_transpose.cpp
+3. We also time different transposse implimentations in  [c++/time_transpose.cpp](c++/time_transpose.cpp)
+
+4. We also have a python implimentation in [final-adaboost.ipynb](python/final-adaboost.ipynb)
 
 
 ### Benchmark of Implimentations:
