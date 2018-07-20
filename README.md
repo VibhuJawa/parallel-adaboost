@@ -50,6 +50,10 @@ where n is number of examples and m is number of dimentions.
 ### Benchmark of Implimentations:
 Project Report [parallelizing-adaboost.pdf](https://github.com/VibhuJawa/parallel-adaboost/blob/master/parallelizing-adaboost.pdf)
 
+### Scope for improvement:
+
+Change the naive formula used in  error rate to the optimized one mentioned in MIT video
+
 
 ## Authors
 * **Vibhu Jawa** [Vibhu Jawa](https://github.com/VibhuJawa)
