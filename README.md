@@ -48,7 +48,7 @@ Project Report [parallelizing-adaboost.pdf](https://github.com/VibhuJawa/paralle
 
 ### Scope for improvement:
 
-Change the naive formula used in  error rate to the optimized one mentioned in MIT video
+Change the naive formula used in  error rate to the optimized one (with weight rescaling) mentioned in MIT video
 
 
 ## Authors
