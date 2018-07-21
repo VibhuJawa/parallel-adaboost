@@ -15,16 +15,12 @@ https://bisqwit.iki.fi/story/howto/openmp/
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
 1. Run c++/create_data.sh to create the data set.
 
-2. import the implimentation you like to use, There are 2 header files which you can use:
+2. import the implimentation you like to use, There are 2 header files (details in report) which you can use:
   
       1. Parallization to find the best feature threhold parallel- [adaboost.h](c++/adaboost.h)   
-      2. Parallization everywhere parallel- [adaboost_best.h](c++/adaboost_best.h)
+      2. Parallization everywhere - [adaboost_best.h](c++/adaboost_best.h)
       
       To import simply type:
       
