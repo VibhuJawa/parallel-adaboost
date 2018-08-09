@@ -9,6 +9,7 @@ AdaBoost, short for Adaptive Boosting, is a type of boosting algorithm which com
 Python3: To generate the data set for experimentation
 
 C++ with OpenMP 
+
 Refer this for learning more about open mp and multi threading with C++.
 https://bisqwit.iki.fi/story/howto/openmp/
 
@@ -17,14 +18,17 @@ https://bisqwit.iki.fi/story/howto/openmp/
 
 1. Run c++/create_data.sh to create the data set.
 
-2. import the implimentation you like to use, There are 2 header files (details in report) which you can use:
+2. import the implimentation you like to use 
+
+There are 2 header files (details in report) which you can use:
   
       1. Parallization to find the best feature threhold parallel- [adaboost.h](c++/adaboost.h)   
       2. Parallization everywhere - [adaboost_best.h](c++/adaboost_best.h)
       
-      To import simply type:
       
 ```
+To import simply type:
+
 #include "adaboost_best.h"
 
 
