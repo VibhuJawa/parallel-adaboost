@@ -21,9 +21,10 @@ https://bisqwit.iki.fi/story/howto/openmp/
 2. import the implimentation you like to use 
 
 There are 2 header files (details in report) which you can use:
-  
-      1. Parallization to find the best feature threhold parallel- [adaboost.h](c++/adaboost.h)   
-      2. Parallization everywhere - [adaboost_best.h](c++/adaboost_best.h)
+
+  * Parallization to find the best feature threhold parallel: [adaboost.h](c++/adaboost.h) 
+
+  * Parallization everywhere: [adaboost_best.h](c++/adaboost_best.h)
       
       
 ```
@@ -57,4 +58,4 @@ Change the naive formula used in  error rate to the optimized one (with weight r
 
 ## Authors
 * **Vibhu Jawa** [Vibhu Jawa](https://github.com/VibhuJawa)
-* **Praateek  Mahajan** -[Praateek  Mahajan](https://github.com/praateekmahajan)
+* **Praateek  Mahajan** [Praateek  Mahajan](https://github.com/praateekmahajan)
